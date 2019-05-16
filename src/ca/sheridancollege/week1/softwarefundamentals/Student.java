@@ -12,6 +12,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 public class Student {
     
     private String name;
+    private int i;
 
     /**
      * Get the value of name
@@ -29,6 +30,20 @@ public class Student {
      */
     public void setName(String name) {
         this.name = name;
+    }
+
+    /**
+     * @return the i
+     */
+    public int getI() {
+        return i;
+    }
+
+    /**
+     * @param i the i to set
+     */
+    public void setI(int i) {
+        this.i = i;
     }
 
 }
