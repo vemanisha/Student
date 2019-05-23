@@ -16,7 +16,8 @@ public class Student {
     private String m;
 
     /**
-     * Get the value of name
+     * testing pull
+     *Get the value of name
      *
      * @return the value of name
      */
